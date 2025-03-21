@@ -1,6 +1,7 @@
 #                                     Modular_Watering_System
 
 The purpose of this project was to design a modular watering system that can be adapted to suit the needs of each user.
+I got the inspiration for this project because I like plants and gardening and I am curently living in a small apartment and i like to have plants around me
 
 Because of the design it can be used in both traditional garden configurations but also hydroponic systems. be it vertical or horizontal.
 
