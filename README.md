@@ -29,6 +29,8 @@ Because of the design it can be used in both traditional garden configurations b
 
 #  Known issues
 
+-(Priority)The resistive soil moisture sensor rusts to fast for my liking. To fix this i am researching capacitive sensors and how to make my own sensor
+
 - Depending on the hygrometers used the system may not read soil humidity corectly
 - If small delay isn't present in the Loop section, LCD refreshes to quickly
 - On my arduino sleep mode doesnt always work and stops program in it's place
